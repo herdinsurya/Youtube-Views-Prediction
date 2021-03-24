@@ -6,7 +6,7 @@ Build model to predict video views based on statistical numbers and other attrib
 ## About Dataset
 This dataset is obtained from [Trending YouTube Video Statistics | Kaggle](https://www.kaggle.com/datasnaek/youtube-new)
 
-Main Instructions
+##Main Instructions
 1. Exploratory analysis from the data, create some visualization to describe the data
 2. Describe the pre-processing steps, also the reason behind them
 3. Split the data into training and testing with optional portion
